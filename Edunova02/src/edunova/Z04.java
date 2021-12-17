@@ -23,7 +23,7 @@ public class Z04 {
 			System.out.println("Ragbi, nogomet i rukomet");
 		} else if (kvadratura >= 6500) {
 			System.out.println("Nogomet i rukomet");
-		} else if (kvadratura == 800) {
+		} else if (kvadratura >= 800) {
 			System.out.println("Rukomet");
 		} else {
 			System.out.println("Nijedan");
